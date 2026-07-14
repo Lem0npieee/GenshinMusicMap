@@ -1,0 +1,76 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html, body, #app {
+  width: 100%; height: 100%; overflow: hidden;
+  font-family: 'Microsoft YaHei', 'PingFang SC', sans-serif;
+}
+
+:root {
+  --bg-primary: #1a1a2e;
+  --bg-secondary: #16213e;
+  --bg-panel: rgba(22, 33, 62, 0.92);
+  --text-primary: #e0e0e0;
+  --text-secondary: #a0a0b0;
+  --accent: #d4a843;
+  --accent-hover: #e8be5a;
+  --border: rgba(212, 168, 67, 0.3);
+  --shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+  --radius: 8px;
+}
+
+#app {
+  position: relative;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+/* Leaflet 地图容器 */
+.leaflet-container {
+  background: #0a0a1a;
+  font-family: inherit;
+}
+.leaflet-control-zoom { display: none; }
+
+/* 区域多边形样式 */
+.region-polygon {
+  stroke: var(--accent);
+  stroke-width: 2;
+  stroke-opacity: 0.6;
+  fill: var(--accent);
+  fill-opacity: 0.08;
+  transition: fill-opacity 0.2s, stroke-opacity 0.2s;
+  cursor: pointer;
+}
+.region-polygon:hover {
+  fill-opacity: 0.2;
+  stroke-opacity: 1;
+  stroke-width: 3;
+}
+.region-polygon.active {
+  fill-opacity: 0.3;
+  stroke: #fff;
+  stroke-width: 3;
+  stroke-opacity: 1;
+}
+
+/* 悬浮提示 */
+.region-tooltip {
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 6px 12px;
+  color: var(--text-primary);
+  font-size: 13px;
+  box-shadow: var(--shadow);
+  white-space: nowrap;
+}
+.region-tooltip .nation-tag {
+  font-size: 11px;
+  color: var(--text-secondary);
+  margin-left: 6px;
+}
+
+/* 滚动条 */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }

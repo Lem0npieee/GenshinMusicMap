@@ -139,7 +139,7 @@
         },
         "day": {
           "title": "",
-          "file": "",
+          "file": "audio/291_day.mp3",
           "cover": "images/covers/291.jpg"
         },
         "dusk": {
@@ -286,7 +286,7 @@
         },
         "day": {
           "title": "",
-          "file": "",
+          "file": "audio/269_day.mp3",
           "cover": "images/covers/269.jpg"
         },
         "dusk": {
@@ -342,7 +342,7 @@
         },
         "day": {
           "title": "",
-          "file": "",
+          "file": "audio/270_day.mp3",
           "cover": "images/covers/270.jpg"
         },
         "dusk": {
@@ -352,7 +352,7 @@
         },
         "night": {
           "title": "",
-          "file": "",
+          "file": "audio/270_night.mp3",
           "cover": "images/covers/270.jpg"
         }
       }
@@ -408,12 +408,12 @@
         },
         "day": {
           "title": "",
-          "file": "",
+          "file": "audio/271_day.mp3",
           "cover": "images/covers/271.jpg"
         },
         "dusk": {
           "title": "",
-          "file": "",
+          "file": "audio/271_dusk.mp3",
           "cover": "images/covers/271.jpg"
         },
         "night": {

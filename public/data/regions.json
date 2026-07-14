@@ -149,7 +149,7 @@
         },
         "night": {
           "title": "",
-          "file": "",
+          "file": "audio/291_night.mp3",
           "cover": "images/covers/291.jpg"
         }
       }
@@ -296,7 +296,7 @@
         },
         "night": {
           "title": "",
-          "file": "",
+          "file": "audio/269_night.mp3",
           "cover": "images/covers/269.jpg"
         }
       }
@@ -347,7 +347,7 @@
         },
         "dusk": {
           "title": "",
-          "file": "",
+          "file": "audio/270_dusk.mp3",
           "cover": "images/covers/270.jpg"
         },
         "night": {
@@ -464,7 +464,7 @@
         },
         "day": {
           "title": "",
-          "file": "",
+          "file": "audio/272_day.mp3",
           "cover": "images/covers/272.jpg"
         },
         "dusk": {

@@ -297,8 +297,7 @@ function onCoverError(e) {
   border-radius: 12px;
   background: rgba(255, 255, 255, 0.08);
   color: var(--period-color, #d4a843);
-  border: 1px solid var(--period-color, #d4a843);
-  border-opacity: 0.3;
+  border: 1px solid rgba(212, 168, 67, 0.4);
 }
 
 /* 加载状态 */

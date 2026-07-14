@@ -73,14 +73,23 @@ export async function playRegion(region, period) {
   initAudio()
   // 同区域同时段已在播放则跳过
   if (currentRegion.value?.id === region.id && currentPeriod.value === period && isPlaying.value) return
-  isLoading.value = true
-  try {
-    const buf = await loadAudio(info.file)
-    playBuffer(buf, region, period)
-  } catch (e) {
-    console.error('音频加载失败:', info.file, e)
+  const cacheKey = region.id + '_' + period
+  let buffer = preloadBuffer && preloadBuffer[cacheKey]
+  if (!buffer) {
+    isLoading.value = true
+    try {
+      buffer = await loadAudio(info.file)
+      // 回写缓存
+      preloadBuffer = preloadBuffer || {}
+      preloadBuffer[cacheKey] = buffer
+    } catch (e) {
+      console.error('音频加载失败:', info.file, e)
+      isLoading.value = false
+      return
+    }
+    isLoading.value = false
   }
-  isLoading.value = false
+  playBuffer(buffer, region, period)
 }
 
 export function pause() {

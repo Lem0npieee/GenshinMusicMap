@@ -100,6 +100,7 @@ onMounted(async () => {
   // 恢复设置
   clock.setSpeed(storage.getClockSpeed())
   if (storage.getClockRunning()) clock.start()
+  else clock.start() // 默认让时钟自动流逝
   // 时钟时段变化 → 联动切歌
   clock.onPeriodChange((newPeriod) => {
     if (currentRegion.value && playerVisible.value) {

@@ -3,14 +3,16 @@ import { MAP_CONFIG } from '../data/config.js'
 export function useMapConfig() {
   // 游戏内像素坐标 → Leaflet LatLng
   // 关键：origin 是游戏坐标 [0,0] 在瓦片像素坐标系中的位置
-  // 公式: tile_pixel = game + origin; 然后 tile_pixel / tileSize = Leaflet坐标
+  // 公式: tile_pixel = game + origin; 然后 tile_pixel / coordinateScale = Leaflet坐标
+  // 最高级瓦片每张覆盖 512 个 API 坐标单位，但图片按 256px 渲染；
+  // Leaflet z=3 又会把 CRS.Simple 坐标放大 8 倍，所以换算比例为 16。
   // Leaflet CRS.Simple: lat向下为负(y轴翻转), lng向右为正
   function gameToLatLng(gameX, gameY) {
-    const { origin, tileSize } = MAP_CONFIG
+    const { origin, coordinateScale } = MAP_CONFIG
     const tileX = gameX + origin[0]
     const tileY = gameY + origin[1]
-    const lat = -tileY / tileSize
-    const lng = tileX / tileSize
+    const lat = -tileY / coordinateScale
+    const lng = tileX / coordinateScale
     return [lat, lng]
   }
 
@@ -40,11 +42,11 @@ export function useMapConfig() {
 
   // 全图 LatLngBounds
   function getMapBounds() {
-    // 地图覆盖游戏坐标范围 [-originalSize/2, +originalSize/2]
-    // 但用 totalSize 保守一些
-    const halfW = MAP_CONFIG.totalSize[0] / 2
-    const halfH = MAP_CONFIG.totalSize[1] / 2
-    return gameBoundsToLatLng({ l_x: -halfW, l_y: -halfH, r_x: halfW, r_y: halfH })
+    // totalSize 描述的是从瓦片左上角 [0,0] 开始的完整画布尺寸，
+    // 不能以游戏原点为中心对半展开，否则会产生负瓦片索引。
+    const [width, height] = MAP_CONFIG.totalSize
+    const scale = MAP_CONFIG.coordinateScale
+    return [[-height / scale, 0], [0, width / scale]]
   }
 
   return { gameToLatLng, gameBoundsToLatLng, gameBoundsToPolygon, getCenter, getMapBounds, mapConfig: MAP_CONFIG }

@@ -24,7 +24,11 @@ export const MAP_CONFIG = {
   // 坐标转换参数（来自米哈游API detail_v2）
   origin: [23793, 6208],
   totalSize: [36864, 16384],
-  tileSize: 512,
+  // API 坐标中每个最高级瓦片覆盖 512 个单位；本地图片实际为 256px。
+  // 在 Leaflet z=3 下，一个瓦片横跨 32 个 CRS.Simple 坐标单位，
+  // 因此游戏/API 坐标需要除以 512 / 32 = 16。
+  coordinateScale: 16,
+  leafletTileSize: 256,
   // 各缩放级别瓦片网格
   grids: {
     1: { x: 18, y: 8 },

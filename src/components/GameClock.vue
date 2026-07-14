@@ -1,5 +1,23 @@
 <template>
-  <div class="game-clock" :class="period">
+  <div class="clock-overlay" :class="{ 'ui-hidden': uiHidden }">
+    <button
+      class="visibility-toggle"
+      type="button"
+      :title="uiHidden ? '显示游戏时钟' : '隐藏游戏时钟'"
+      :aria-label="uiHidden ? '显示游戏时钟' : '隐藏游戏时钟'"
+      @click="uiHidden = !uiHidden"
+    >
+      <svg v-if="!uiHidden" viewBox="0 0 24 24" aria-hidden="true">
+        <path d="M2.5 12s3.4-6.5 9.5-6.5 9.5 6.5 9.5 6.5-3.4 6.5-9.5 6.5S2.5 12 2.5 12Z" />
+        <circle cx="12" cy="12" r="3" />
+      </svg>
+      <svg v-else viewBox="0 0 24 24" aria-hidden="true">
+        <path d="M3 3l18 18" />
+        <path d="M10.6 5.7A10.8 10.8 0 0 1 12 5.5c6.1 0 9.5 6.5 9.5 6.5a15 15 0 0 1-2.7 3.5M6.2 6.3C3.8 8.2 2.5 12 2.5 12s3.4 6.5 9.5 6.5a9.7 9.7 0 0 0 3.1-.5" />
+      </svg>
+    </button>
+
+    <div v-show="!uiHidden" class="game-clock" :class="period">
     <!-- 时钟圆盘 -->
     <div class="clock-dial">
       <!-- 天空半圆（上） -->
@@ -54,11 +72,12 @@
         <span>00</span><span>06</span><span>12</span><span>18</span><span>24</span>
       </div>
     </div>
+    </div>
   </div>
 </template>
 
 <script setup>
-import { computed } from 'vue'
+import { computed, ref } from 'vue'
 
 const props = defineProps({
   time: { type: Number, default: 8 },
@@ -70,6 +89,7 @@ const props = defineProps({
 })
 
 defineEmits(['toggle-play', 'set-time', 'set-speed'])
+const uiHidden = ref(false)
 
 // 天空渐变样式（随时段变化）
 const skyStyle = computed(() => {
@@ -91,31 +111,72 @@ const handStyle = computed(() => {
 // 刻度位置
 function markStyle(h) {
   const angle = (h / 24) * 360
-  return { transform: `rotate(${angle}deg) translateY(-48px)` }
+  return { transform: `rotate(${angle}deg) translateY(-96px)` }
 }
 </script>
 
 <style scoped>
-.game-clock {
+.clock-overlay {
   position: fixed;
   bottom: 20px;
-  right: 20px;
+  right: 28px;
   z-index: 1000;
-  background: rgba(22, 33, 62, 0.92);
-  border: 1px solid rgba(212, 168, 67, 0.3);
-  border-radius: 12px;
-  padding: 16px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
-  width: 240px;
-  backdrop-filter: blur(8px);
+  width: min(380px, calc(100vw - 36px));
+  min-height: 340px;
+  pointer-events: none;
+}
+
+.game-clock {
+  box-sizing: border-box;
+  width: 100%;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  padding: 12px 0 0;
+  box-shadow: none;
+  backdrop-filter: none;
+  pointer-events: auto;
+}
+
+.visibility-toggle {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(8, 13, 30, 0.45);
+  color: #e6e8ef;
+  cursor: pointer;
+  z-index: 10;
+  pointer-events: auto;
+  transition: all 0.2s;
+}
+.visibility-toggle svg {
+  width: 18px;
+  height: 18px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.visibility-toggle:hover {
+  color: #fff;
+  background: rgba(8, 13, 30, 0.75);
+  border-color: rgba(212, 168, 67, 0.7);
 }
 
 /* 时钟圆盘 */
 .clock-dial {
   position: relative;
-  width: 180px;
-  height: 180px;
-  margin: 0 auto 12px;
+  width: 210px;
+  height: 210px;
+  margin: 0 auto 16px;
   border-radius: 50%;
   overflow: hidden;
   border: 3px solid rgba(212, 168, 67, 0.4);
@@ -158,8 +219,11 @@ function markStyle(h) {
 /* 指针 */
 .hand {
   position: absolute;
-  top: 50%; left: 50%;
-  width: 3px; height: 42%;
+  top: auto;
+  bottom: 50%;
+  left: 50%;
+  width: 3px;
+  height: 42%;
   background: linear-gradient(180deg, #d4a843 0%, #e8be5a 100%);
   transform-origin: bottom center;
   border-radius: 2px;
@@ -209,7 +273,8 @@ function markStyle(h) {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 10px;
+  width: 100%;
+  margin-bottom: 14px;
 }
 .ctrl-btn {
   background: rgba(212, 168, 67, 0.15);
@@ -254,6 +319,15 @@ function markStyle(h) {
   background: rgba(255, 255, 255, 0.1);
   border-radius: 3px;
   outline: none;
+}
+
+@media (max-width: 640px) {
+  .clock-overlay {
+    right: 12px;
+    bottom: 10px;
+    width: min(340px, calc(100vw - 24px));
+    min-height: 320px;
+  }
 }
 .time-slider input[type="range"]::-webkit-slider-thumb {
   -webkit-appearance: none;

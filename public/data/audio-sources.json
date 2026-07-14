@@ -1,0 +1,3224 @@
+{
+  "audio/l3_299_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2699945643",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2699945643.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2699945643&auto=1&height=66",
+    "cover": "https://p1.music.126.net/6v0Ywad3vlvM8GHVuAo1rg==/109951170919494691.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-竟夜有辉之燎 Radiance Aflame"
+  },
+  "audio/l3_299_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2699945643",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2699945643.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2699945643&auto=1&height=66",
+    "cover": "https://p1.music.126.net/6v0Ywad3vlvM8GHVuAo1rg==/109951170919494691.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-竟夜有辉之燎 Radiance Aflame"
+  },
+  "audio/l3_299_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2699944067",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2699944067.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2699944067&auto=1&height=66",
+    "cover": "https://p1.music.126.net/6v0Ywad3vlvM8GHVuAo1rg==/109951170919494691.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-竟夜有辉之燎 Radiance Aflame"
+  },
+  "audio/l3_299_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2699944067",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2699944067.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2699944067&auto=1&height=66",
+    "cover": "https://p1.music.126.net/6v0Ywad3vlvM8GHVuAo1rg==/109951170919494691.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-竟夜有辉之燎 Radiance Aflame"
+  },
+  "audio/l3_294_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2657683857",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2657683857.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2657683857&auto=1&height=66",
+    "cover": "https://p1.music.126.net/nKt8x4DYiVvedhUlKbeArA==/109951170270534369.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-遥古喁望之阳 Eternal Sun, Eternal Want"
+  },
+  "audio/l3_294_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2657683857",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2657683857.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2657683857&auto=1&height=66",
+    "cover": "https://p1.music.126.net/nKt8x4DYiVvedhUlKbeArA==/109951170270534369.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-遥古喁望之阳 Eternal Sun, Eternal Want"
+  },
+  "audio/l3_294_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2657683858",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2657683858.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2657683858&auto=1&height=66",
+    "cover": "https://p1.music.126.net/nKt8x4DYiVvedhUlKbeArA==/109951170270534369.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-遥古喁望之阳 Eternal Sun, Eternal Want"
+  },
+  "audio/l3_294_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2657683858",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2657683858.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2657683858&auto=1&height=66",
+    "cover": "https://p1.music.126.net/nKt8x4DYiVvedhUlKbeArA==/109951170270534369.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-遥古喁望之阳 Eternal Sun, Eternal Want"
+  },
+  "audio/l3_295_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2657687368",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2657687368.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2657687368&auto=1&height=66",
+    "cover": "https://p1.music.126.net/nKt8x4DYiVvedhUlKbeArA==/109951170270534369.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-遥古喁望之阳 Eternal Sun, Eternal Want"
+  },
+  "audio/l3_295_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2657687368",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2657687368.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2657687368&auto=1&height=66",
+    "cover": "https://p1.music.126.net/nKt8x4DYiVvedhUlKbeArA==/109951170270534369.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-遥古喁望之阳 Eternal Sun, Eternal Want"
+  },
+  "audio/l3_295_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2657687368",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2657687368.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2657687368&auto=1&height=66",
+    "cover": "https://p1.music.126.net/nKt8x4DYiVvedhUlKbeArA==/109951170270534369.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-遥古喁望之阳 Eternal Sun, Eternal Want"
+  },
+  "audio/l3_295_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2657687368",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2657687368.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2657687368&auto=1&height=66",
+    "cover": "https://p1.music.126.net/nKt8x4DYiVvedhUlKbeArA==/109951170270534369.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-遥古喁望之阳 Eternal Sun, Eternal Want"
+  },
+  "audio/l3_296_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2657687370",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2657687370.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2657687370&auto=1&height=66",
+    "cover": "https://p1.music.126.net/nKt8x4DYiVvedhUlKbeArA==/109951170270534369.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-遥古喁望之阳 Eternal Sun, Eternal Want"
+  },
+  "audio/l3_296_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2657687370",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2657687370.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2657687370&auto=1&height=66",
+    "cover": "https://p1.music.126.net/nKt8x4DYiVvedhUlKbeArA==/109951170270534369.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-遥古喁望之阳 Eternal Sun, Eternal Want"
+  },
+  "audio/l3_296_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2657683870",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2657683870.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2657683870&auto=1&height=66",
+    "cover": "https://p1.music.126.net/nKt8x4DYiVvedhUlKbeArA==/109951170270534369.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-遥古喁望之阳 Eternal Sun, Eternal Want"
+  },
+  "audio/l3_296_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2657683870",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2657683870.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2657683870&auto=1&height=66",
+    "cover": "https://p1.music.126.net/nKt8x4DYiVvedhUlKbeArA==/109951170270534369.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-遥古喁望之阳 Eternal Sun, Eternal Want"
+  },
+  "audio/l3_293_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2657687375",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2657687375.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2657687375&auto=1&height=66",
+    "cover": "https://p1.music.126.net/nKt8x4DYiVvedhUlKbeArA==/109951170270534369.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-遥古喁望之阳 Eternal Sun, Eternal Want"
+  },
+  "audio/l3_293_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2657687375",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2657687375.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2657687375&auto=1&height=66",
+    "cover": "https://p1.music.126.net/nKt8x4DYiVvedhUlKbeArA==/109951170270534369.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-遥古喁望之阳 Eternal Sun, Eternal Want"
+  },
+  "audio/l3_293_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2657687375",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2657687375.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2657687375&auto=1&height=66",
+    "cover": "https://p1.music.126.net/nKt8x4DYiVvedhUlKbeArA==/109951170270534369.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-遥古喁望之阳 Eternal Sun, Eternal Want"
+  },
+  "audio/l3_293_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2657687375",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2657687375.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2657687375&auto=1&height=66",
+    "cover": "https://p1.music.126.net/nKt8x4DYiVvedhUlKbeArA==/109951170270534369.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-遥古喁望之阳 Eternal Sun, Eternal Want"
+  },
+  "audio/l3_280_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635292804",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635292804.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635292804&auto=1&height=66",
+    "cover": "https://p1.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_280_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635292804",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635292804.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635292804&auto=1&height=66",
+    "cover": "https://p1.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_280_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635292804",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635292804.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635292804&auto=1&height=66",
+    "cover": "https://p1.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_280_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635292804",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635292804.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635292804&auto=1&height=66",
+    "cover": "https://p1.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_281_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635291849",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635291849.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635291849&auto=1&height=66",
+    "cover": "https://p1.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_281_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635291849",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635291849.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635291849&auto=1&height=66",
+    "cover": "https://p1.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_281_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635291850",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635291850.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635291850&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_281_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635291850",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635291850.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635291850&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_282_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635292801",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635292801.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635292801&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_282_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635292801",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635292801.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635292801&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_282_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635292802",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635292802.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635292802&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_282_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635292802",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635292802.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635292802&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_283_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635291851",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635291851.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635291851&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_283_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635291851",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635291851.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635291851&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_283_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635292780",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635292780.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635292780&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_283_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635292780",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635292780.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635292780&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_277_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635291867",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635291867.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635291867&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_277_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635291867",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635291867.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635291867&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_277_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635291867",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635291867.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635291867&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_277_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635291867",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635291867.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635291867&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_278_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635291840",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635291840.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635291840&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_278_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635291840",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635291840.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635291840&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_278_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635291843",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635291843.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635291843&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_278_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635291843",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635291843.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635291843&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_273_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635292775",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635292775.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635292775&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_273_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635292775",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635292775.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635292775&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_273_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635292775",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635292775.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635292775&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_273_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2635292775",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2635292775.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2635292775&auto=1&height=66",
+    "cover": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-炽炎交逐之原 Land of Tleyaoyotl"
+  },
+  "audio/l3_259_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2156624890",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2156624890.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2156624890&auto=1&height=66",
+    "cover": "https://p2.music.126.net/A59b7v8gBBxYI9pn8mO-Hw==/109951169594127870.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-金律永谐 Cantus Aeternus"
+  },
+  "audio/l3_259_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2156624890",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2156624890.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2156624890&auto=1&height=66",
+    "cover": "https://p2.music.126.net/A59b7v8gBBxYI9pn8mO-Hw==/109951169594127870.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-金律永谐 Cantus Aeternus"
+  },
+  "audio/l3_259_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2156624891",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2156624891.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2156624891&auto=1&height=66",
+    "cover": "https://p2.music.126.net/A59b7v8gBBxYI9pn8mO-Hw==/109951169594127870.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-金律永谐 Cantus Aeternus"
+  },
+  "audio/l3_259_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2156624891",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2156624891.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2156624891&auto=1&height=66",
+    "cover": "https://p2.music.126.net/A59b7v8gBBxYI9pn8mO-Hw==/109951169594127870.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-金律永谐 Cantus Aeternus"
+  },
+  "audio/l3_241_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118678",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118678.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118678&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_241_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118678",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118678.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118678&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_241_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118678",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118678.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118678&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_241_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118678",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118678.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118678&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_249_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118676",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118676.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118676&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_249_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118676",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118676.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118676&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_249_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118336",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118336.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118336&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_249_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118336",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118336.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118336&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_252_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118682",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118682.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118682&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_252_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118682",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118682.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118682&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_252_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118682",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118682.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118682&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_252_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118682",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118682.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118682&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_244_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118666",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118666.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118666&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_244_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118666",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118666.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118666&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_244_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118321",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118321.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118321&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_244_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118321",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118321.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118321&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_246_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118664",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118664.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118664&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_246_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118664",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118664.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118664&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_246_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118665",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118665.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118665&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_246_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2140118665",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2140118665.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2140118665&auto=1&height=66",
+    "cover": "https://p2.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-沉玉沐芳 Jadeite Redolence"
+  },
+  "audio/l3_235_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130084892",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130084892.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130084892&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_235_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130084892",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130084892.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130084892&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_235_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130084892",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130084892.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130084892&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_235_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130084892",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130084892.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130084892&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_236_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130083949",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130083949.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130083949&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_236_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130083949",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130083949.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130083949&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_236_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130083949",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130083949.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130083949&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_236_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130083949",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130083949.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130083949&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_237_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130084890",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130084890.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130084890&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_237_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130084890",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130084890.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130084890&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_237_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130083946",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130083946.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130083946&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_237_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130083946",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130083946.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130083946&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_239_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130083950",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130083950.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130083950&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_239_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130083950",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130083950.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130083950&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_239_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130083950",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130083950.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130083950&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_239_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130083950",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130083950.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130083950&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_230_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130083969",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130083969.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130083969&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_230_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130083969",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130083969.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130083969&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_230_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130083969",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130083969.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130083969&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_230_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130083969",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130083969.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130083969&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_231_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130083973",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130083973.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130083973&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_231_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130083973",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130083973.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130083973&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_231_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130083973",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130083973.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130083973&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_231_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2130083973",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2130083973.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2130083973&auto=1&height=66",
+    "cover": "https://p2.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-万流始源之海 Pelagic Primaevality"
+  },
+  "audio/l3_218_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085836729",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085836729.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085836729&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_218_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085833518",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085833518.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085833518&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_218_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085833517",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085833517.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085833517&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_218_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085836728",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085836728.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085836728&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_219_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085836732",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085836732.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085836732&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_219_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085836732",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085836732.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085836732&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_219_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085833528",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085833528.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085833528&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_219_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085833528",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085833528.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085833528&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_220_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085836732",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085836732.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085836732&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_220_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085836732",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085836732.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085836732&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_220_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085833528",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085833528.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085833528&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_220_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085833528",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085833528.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085833528&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_221_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085836732",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085836732.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085836732&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_221_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085836732",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085836732.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085836732&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_221_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085833528",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085833528.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085833528&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_221_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085833528",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085833528.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085833528&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_223_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085833555",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085833555.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085833555&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_223_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085833555",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085833555.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085833555&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_223_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085833555",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085833555.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085833555&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_223_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085833555",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085833555.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085833555&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_225_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085833533",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085833533.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085833533&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_225_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085833533",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085833533.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085833533&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_225_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085833533",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085833533.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085833533&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_225_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2085833533",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2085833533.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2085833533&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-白露澈明之泉 Fountain of Belleau"
+  },
+  "audio/l3_208_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859153",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859153.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859153&auto=1&height=66",
+    "cover": "https://p2.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_208_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859153",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859153.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859153&auto=1&height=66",
+    "cover": "https://p2.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_208_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859153",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859153.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859153&auto=1&height=66",
+    "cover": "https://p2.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_208_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859153",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859153.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859153&auto=1&height=66",
+    "cover": "https://p2.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_210_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041862694",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041862694.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041862694&auto=1&height=66",
+    "cover": "https://p2.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_210_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041862694",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041862694.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041862694&auto=1&height=66",
+    "cover": "https://p2.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_210_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041862695",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041862695.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041862695&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_210_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041862695",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041862695.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041862695&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_211_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859155",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859155.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859155&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_211_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859155",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859155.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859155&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_211_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859155",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859155.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859155&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_211_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859155",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859155.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859155&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_212_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041862691",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041862691.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041862691&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_212_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041862691",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041862691.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041862691&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_212_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041862691",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041862691.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041862691&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_212_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041862691",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041862691.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041862691&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_193_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859166",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859166.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859166&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_193_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859166",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859166.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859166&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_193_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041862722",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041862722.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041862722&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_193_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041862722",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041862722.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041862722&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_183_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041862737",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041862737.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041862737&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_183_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041862737",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041862737.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041862737&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_183_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859175",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859175.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859175&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_183_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859175",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859175.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859175&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_188_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859167",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859167.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859167&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_188_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859167",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859167.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859167&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_188_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859168",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859168.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859168&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_188_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859168",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859168.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859168&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_189_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859171",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859171.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859171&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_189_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859171",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859171.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859171&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_189_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859171",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859171.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859171&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_189_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041859171",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041859171.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041859171&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_190_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041862733",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041862733.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041862733&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_190_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041862733",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041862733.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041862733&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_190_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041862733",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041862733.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041862733&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_190_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2041862733",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2041862733.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2041862733&auto=1&height=66",
+    "cover": "https://p1.music.126.net/f9Hbu5v27bGmg5ALM8iN9Q==/109951168565989598.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-啁哳流变之砂 The Unfathomable Sand Dunes"
+  },
+  "audio/l3_171_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992343571",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992343571.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992343571&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_171_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992343571",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992343571.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992343571&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_171_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992343571",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992343571.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992343571&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_171_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992343571",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992343571.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992343571&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_162_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992344584",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992344584.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992344584&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_162_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992344584",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992344584.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992344584&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_162_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992344586",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992344586.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992344586&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_162_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992344586",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992344586.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992344586&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_163_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992141911",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992141911.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992141911&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_163_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992141911",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992141911.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992141911&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_163_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992141912",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992141912.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992141912&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_163_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992141912",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992141912.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992141912&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_164_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992139167",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992139167.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992139167&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_164_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992139167",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992139167.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992139167&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_164_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992139168",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992139168.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992139168&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_164_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992139168",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992139168.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992139168&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_165_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992141921",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992141921.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992141921&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_165_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992141921",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992141921.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992141921&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_165_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992141923",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992141923.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992141923&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_165_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992141923",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992141923.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992141923&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_167_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992139170",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992139170.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992139170&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_167_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992139170",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992139170.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992139170&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_167_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992139171",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992139171.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992139171&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_167_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992139171",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992139171.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992139171&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_152_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992343571",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992343571.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992343571&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_152_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992343571",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992343571.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992343571&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_152_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992343571",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992343571.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992343571&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_152_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992343571",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992343571.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992343571&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_174_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992139165",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992139165.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992139165&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_174_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992139159",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992139159.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992139159&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_174_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992139162",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992139162.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992139162&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_174_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992139163",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992139163.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992139163&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_159_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992344599",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992344599.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992344599&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_159_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992344599",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992344599.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992344599&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_159_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992344599",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992344599.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992344599&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_159_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992344599",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992344599.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992344599&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_158_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992344590",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992344590.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992344590&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_158_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992344590",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992344590.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992344590&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_158_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992344590",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992344590.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992344590&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_158_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1992344590",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1992344590.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1992344590&auto=1&height=66",
+    "cover": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-智妙明论之林 Forest of Jnana and Vidya"
+  },
+  "audio/l3_172_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1956543003",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1956543003.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1956543003&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ragydFCtXKrHRusb28RxLQ==/109951167558151638.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-千岩旷望 Millelith's Watch"
+  },
+  "audio/l3_172_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1956543003",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1956543003.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1956543003&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ragydFCtXKrHRusb28RxLQ==/109951167558151638.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-千岩旷望 Millelith's Watch"
+  },
+  "audio/l3_172_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1956541070",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1956541070.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1956541070&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ragydFCtXKrHRusb28RxLQ==/109951167558151638.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-千岩旷望 Millelith's Watch"
+  },
+  "audio/l3_172_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1956541070",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1956541070.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1956541070&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ragydFCtXKrHRusb28RxLQ==/109951167558151638.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-千岩旷望 Millelith's Watch"
+  },
+  "audio/l3_105_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1937114186",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1937114186.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1937114186&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ItGglGmjUh3x7HL2qHkurQ==/109951167277673214.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-佚落迁忘之岛 Islands of the Lost and Forgotten"
+  },
+  "audio/l3_105_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1937114186",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1937114186.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1937114186&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ItGglGmjUh3x7HL2qHkurQ==/109951167277673214.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-佚落迁忘之岛 Islands of the Lost and Forgotten"
+  },
+  "audio/l3_105_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1937114186",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1937114186.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1937114186&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ItGglGmjUh3x7HL2qHkurQ==/109951167277673214.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-佚落迁忘之岛 Islands of the Lost and Forgotten"
+  },
+  "audio/l3_105_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1937114186",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1937114186.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1937114186&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ItGglGmjUh3x7HL2qHkurQ==/109951167277673214.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-佚落迁忘之岛 Islands of the Lost and Forgotten"
+  },
+  "audio/l3_92_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879108716",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879108716.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879108716&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_92_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879108716",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879108716.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879108716&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_92_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098415",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098415.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098415&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_92_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098415",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098415.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098415&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_103_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098413",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098413.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098413&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_103_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098413",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098413.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098413&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_103_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098413",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098413.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098413&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_103_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098413",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098413.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098413&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_100_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098420",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098420.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098420&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_100_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098420",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098420.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098420&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_100_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098420",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098420.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098420&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_100_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098420",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098420.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098420&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_101_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098413",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098413.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098413&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_101_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098413",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098413.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098413&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_101_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098413",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098413.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098413&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_101_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098413",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098413.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098413&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_99_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098420",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098420.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098420&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_99_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098420",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098420.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098420&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_99_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098420",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098420.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098420&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_99_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098420",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098420.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098420&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_98_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879108719",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879108719.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879108719&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_98_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879108719",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879108719.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879108719&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_98_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879108719",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879108719.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879108719&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_98_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879108719",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879108719.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879108719&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_97_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879108723",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879108723.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879108723&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_97_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879108723",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879108723.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879108723&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_97_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879108723",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879108723.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879108723&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_97_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879108723",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879108723.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879108723&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_102_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879108712",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879108712.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879108712&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_102_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879108712",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879108712.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879108712&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_102_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879108712",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879108712.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879108712&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_102_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879108712",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879108712.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879108712&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_95_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098413",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098413.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098413&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_95_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098413",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098413.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098413&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_95_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098413",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098413.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098413&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_95_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098413",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098413.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098413&auto=1&height=66",
+    "cover": "https://p1.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_91_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098374",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098374.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098374&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_91_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098374",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098374.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098374&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_91_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098363",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098363.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098363&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_91_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098363",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098363.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098363&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_89_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098358",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098358.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098358&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_89_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098358",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098358.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098358&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_89_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098370",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098370.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098370&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_89_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098370",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098370.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098370&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_88_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098374",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098374.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098374&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_88_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098374",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098374.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098374&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_88_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098374",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098374.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098374&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_88_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098374",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098374.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098374&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_86_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879108679",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879108679.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879108679&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_86_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879108679",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879108679.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879108679&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_86_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098373",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098373.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098373&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_86_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098373",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098373.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098373&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_85_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879108674",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879108674.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879108674&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_85_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879108674",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879108674.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879108674&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_85_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098355",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098355.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098355&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_85_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098355",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098355.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098355&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_84_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098374",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098374.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098374&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_84_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098374",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098374.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098374&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_84_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098363",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098363.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098363&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_84_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098363",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098363.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098363&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_83_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098367",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098367.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098367&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_83_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098367",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098367.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098367&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_83_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098367",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098367.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098367&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_83_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098367",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098367.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098367&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_82_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098414",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098414.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098414&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_82_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098414",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098414.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098414&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_82_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098414",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098414.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098414&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_82_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098414",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098414.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098414&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_81_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098416",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098416.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098416&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_81_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098416",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098416.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098416&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_81_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098416",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098416.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098416&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_81_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1879098416",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1879098416.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1879098416&auto=1&height=66",
+    "cover": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-寂远无妄之国 Realm of Tranquil Eternity"
+  },
+  "audio/l3_74_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1833805539",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1833805539.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1833805539&auto=1&height=66",
+    "cover": "https://p2.music.126.net/_U__1_DT6eLbvObNtK3apg==/109951165849462124.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-漩涡、落星与冰山  Vortex of Legends"
+  },
+  "audio/l3_74_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1833805539",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1833805539.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1833805539&auto=1&height=66",
+    "cover": "https://p2.music.126.net/_U__1_DT6eLbvObNtK3apg==/109951165849462124.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-漩涡、落星与冰山  Vortex of Legends"
+  },
+  "audio/l3_74_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1833805539",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1833805539.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1833805539&auto=1&height=66",
+    "cover": "https://p2.music.126.net/_U__1_DT6eLbvObNtK3apg==/109951165849462124.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-漩涡、落星与冰山  Vortex of Legends"
+  },
+  "audio/l3_74_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1833805539",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1833805539.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1833805539&auto=1&height=66",
+    "cover": "https://p2.music.126.net/_U__1_DT6eLbvObNtK3apg==/109951165849462124.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-漩涡、落星与冰山  Vortex of Legends"
+  },
+  "audio/l3_30_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1481390511",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1481390511.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1481390511&auto=1&height=66",
+    "cover": "https://p2.music.126.net/odoWDzYyHAe-IzLzRxkg3Q==/109951165336802038.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-风与牧歌之城 City of Winds and Idylls"
+  },
+  "audio/l3_30_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1481392245",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1481392245.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1481392245&auto=1&height=66",
+    "cover": "https://p2.music.126.net/odoWDzYyHAe-IzLzRxkg3Q==/109951165336802038.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-风与牧歌之城 City of Winds and Idylls"
+  },
+  "audio/l3_30_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1481392257",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1481392257.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1481392257&auto=1&height=66",
+    "cover": "https://p2.music.126.net/odoWDzYyHAe-IzLzRxkg3Q==/109951165336802038.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-风与牧歌之城 City of Winds and Idylls"
+  },
+  "audio/l3_30_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1455707352",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1455707352.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1455707352&auto=1&height=66",
+    "cover": "https://p2.music.126.net/Ww8vFazA3y8UhREv7G9Urg==/109951165065099945.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-风与异乡人 Le Vent et les Enfants des étoiles"
+  },
+  "audio/l3_15_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1455706958",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1455706958.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1455706958&auto=1&height=66",
+    "cover": "https://p1.music.126.net/Ww8vFazA3y8UhREv7G9Urg==/109951165065099945.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-风与异乡人 Le Vent et les Enfants des étoiles"
+  },
+  "audio/l3_15_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1455706958",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1455706958.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1455706958&auto=1&height=66",
+    "cover": "https://p1.music.126.net/Ww8vFazA3y8UhREv7G9Urg==/109951165065099945.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-风与异乡人 Le Vent et les Enfants des étoiles"
+  },
+  "audio/l3_16_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1861576558",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1861576558.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1861576558&auto=1&height=66",
+    "cover": "https://p1.music.126.net/klj1ylCHIDtuINQEXo1WEg==/109951166180599033.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-珍珠之歌 The Shimmering Voyage"
+  },
+  "audio/l3_16_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1861576558",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1861576558.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1861576558&auto=1&height=66",
+    "cover": "https://p1.music.126.net/klj1ylCHIDtuINQEXo1WEg==/109951166180599033.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-珍珠之歌 The Shimmering Voyage"
+  },
+  "audio/l3_16_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1481390635",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1481390635.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1481390635&auto=1&height=66",
+    "cover": "https://p1.music.126.net/odoWDzYyHAe-IzLzRxkg3Q==/109951165336802038.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-风与牧歌之城 City of Winds and Idylls"
+  },
+  "audio/l3_16_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1481390635",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1481390635.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1481390635&auto=1&height=66",
+    "cover": "https://p1.music.126.net/odoWDzYyHAe-IzLzRxkg3Q==/109951165336802038.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-风与牧歌之城 City of Winds and Idylls"
+  },
+  "audio/l3_14_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "2756036517",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2756036517.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2756036517&auto=1&height=66",
+    "cover": "https://p1.music.126.net/JSLtNdDEdVOHtmh64LOoAg==/109951172156847671.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-幽暮衬映之月 Outside It Is Growing Dark"
+  },
+  "audio/l3_14_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "2756036517",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2756036517.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2756036517&auto=1&height=66",
+    "cover": "https://p1.music.126.net/JSLtNdDEdVOHtmh64LOoAg==/109951172156847671.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-幽暮衬映之月 Outside It Is Growing Dark"
+  },
+  "audio/l3_14_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "2756036517",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2756036517.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2756036517&auto=1&height=66",
+    "cover": "https://p1.music.126.net/JSLtNdDEdVOHtmh64LOoAg==/109951172156847671.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-幽暮衬映之月 Outside It Is Growing Dark"
+  },
+  "audio/l3_14_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "2756036517",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=2756036517.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=2756036517&auto=1&height=66",
+    "cover": "https://p1.music.126.net/JSLtNdDEdVOHtmh64LOoAg==/109951172156847671.jpg",
+    "artist": "HOYO-MiX",
+    "album": "原神-幽暮衬映之月 Outside It Is Growing Dark"
+  },
+  "audio/l3_35_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275675",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275675.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275675&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_35_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275675",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275675.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275675&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_35_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275675",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275675.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275675&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_35_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275675",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275675.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275675&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_37_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275685",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275685.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275685&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_37_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275685",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275685.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275685&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_37_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275680",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275680.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275680&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_37_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275680",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275680.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275680&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_33_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275845",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275845.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275845&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_33_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275845",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275845.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275845&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_33_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492276660",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492276660.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492276660&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_33_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492276660",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492276660.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492276660&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_34_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1455706958",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1455706958.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1455706958&auto=1&height=66",
+    "cover": "https://p1.music.126.net/Ww8vFazA3y8UhREv7G9Urg==/109951165065099945.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-风与异乡人 Le Vent et les Enfants des étoiles"
+  },
+  "audio/l3_34_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1455706958",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1455706958.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1455706958&auto=1&height=66",
+    "cover": "https://p1.music.126.net/Ww8vFazA3y8UhREv7G9Urg==/109951165065099945.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-风与异乡人 Le Vent et les Enfants des étoiles"
+  },
+  "audio/l3_34_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1455706958",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1455706958.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1455706958&auto=1&height=66",
+    "cover": "https://p1.music.126.net/Ww8vFazA3y8UhREv7G9Urg==/109951165065099945.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-风与异乡人 Le Vent et les Enfants des étoiles"
+  },
+  "audio/l3_34_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1455706958",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1455706958.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1455706958&auto=1&height=66",
+    "cover": "https://p1.music.126.net/Ww8vFazA3y8UhREv7G9Urg==/109951165065099945.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-风与异乡人 Le Vent et les Enfants des étoiles"
+  },
+  "audio/l3_39_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275687",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275687.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275687&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_39_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275687",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275687.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275687&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_39_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275688",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275688.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275688&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_39_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275688",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275688.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275688&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_46_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275686",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275686.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275686&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_46_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275686",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275686.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275686&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_46_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275688",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275688.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275688&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_46_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275688",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275688.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275688&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_48_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1455706955",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1455706955.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1455706955&auto=1&height=66",
+    "cover": "https://p1.music.126.net/Ww8vFazA3y8UhREv7G9Urg==/109951165065099945.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-风与异乡人 Le Vent et les Enfants des étoiles"
+  },
+  "audio/l3_48_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1455706955",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1455706955.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1455706955&auto=1&height=66",
+    "cover": "https://p1.music.126.net/Ww8vFazA3y8UhREv7G9Urg==/109951165065099945.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-风与异乡人 Le Vent et les Enfants des étoiles"
+  },
+  "audio/l3_48_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1455706955",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1455706955.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1455706955&auto=1&height=66",
+    "cover": "https://p1.music.126.net/Ww8vFazA3y8UhREv7G9Urg==/109951165065099945.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-风与异乡人 Le Vent et les Enfants des étoiles"
+  },
+  "audio/l3_48_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1455706955",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1455706955.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1455706955&auto=1&height=66",
+    "cover": "https://p1.music.126.net/Ww8vFazA3y8UhREv7G9Urg==/109951165065099945.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-风与异乡人 Le Vent et les Enfants des étoiles"
+  },
+  "audio/l3_47_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275686",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275686.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275686&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_47_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275686",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275686.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275686&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_56_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492276610",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492276610.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492276610&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_56_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492276610",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492276610.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492276610&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_56_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275928",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275928.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275928&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_56_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275928",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275928.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275928&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_51_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492276610",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492276610.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492276610&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_51_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492276610",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492276610.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492276610&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_51_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275928",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275928.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275928&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_51_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275928",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275928.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275928&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_55_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275974",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275974.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275974&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_55_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275974",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275974.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275974&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_55_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1455706958",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1455706958.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1455706958&auto=1&height=66",
+    "cover": "https://p1.music.126.net/Ww8vFazA3y8UhREv7G9Urg==/109951165065099945.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-风与异乡人 Le Vent et les Enfants des étoiles"
+  },
+  "audio/l3_55_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1455706958",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1455706958.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1455706958&auto=1&height=66",
+    "cover": "https://p1.music.126.net/Ww8vFazA3y8UhREv7G9Urg==/109951165065099945.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-风与异乡人 Le Vent et les Enfants des étoiles"
+  },
+  "audio/l3_54_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492276610",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492276610.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492276610&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_54_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492276610",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492276610.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492276610&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_54_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275928",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275928.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275928&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_54_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275928",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275928.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275928&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_57_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492276610",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492276610.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492276610&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_57_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492276610",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492276610.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492276610&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_57_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275928",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275928.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275928&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_57_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275928",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275928.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275928&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_60_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275965",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275965.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275965&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_60_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275965",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275965.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275965&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_61_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275965",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275965.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275965&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_61_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275965",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275965.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275965&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_63_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275965",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275965.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275965&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_63_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275965",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275965.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275965&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_66_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492276419",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492276419.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492276419&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_66_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492276426",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492276426.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492276426&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_66_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492276412",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492276412.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492276412&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_66_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275684",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275684.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275684&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_67_dawn.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275687",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275687.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275687&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_67_day.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275687",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275687.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275687&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_67_dusk.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275675",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275675.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275675&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  },
+  "audio/l3_67_night.mp3": {
+    "provider": "netease",
+    "neteaseId": "1492275675",
+    "streamUrl": "https://music.163.com/song/media/outer/url?id=1492275675.mp3",
+    "embedUrl": "https://music.163.com/outchain/player?type=2&id=1492275675&auto=1&height=66",
+    "cover": "https://p1.music.126.net/yoRaxBY77koSqhjh52g-DA==/109951165434255510.jpg",
+    "artist": "陈致逸 / HOYO-MiX",
+    "album": "原神-皎月云间之梦 Jade Moon Upon a Sea of Clouds"
+  }
+}

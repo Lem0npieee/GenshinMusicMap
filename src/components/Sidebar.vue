@@ -47,7 +47,7 @@
 
         <!-- 歌单检索区 -->
         <div class="section section-playlist">
-          <div class="section-title">🎶 歌单检索</div>
+          <div class="section-title">🎶 L3 区域歌单</div>
           <!-- 国度筛选标签 -->
           <div class="nation-tabs">
             <button
@@ -72,8 +72,11 @@
               @click="hasBgm(region) && $emit('region-select', region)"
             >
               <span class="region-dot" :style="{ background: nationColor(region.nation) }"></span>
-              <span class="region-name">{{ region.name }}</span>
-              <span class="region-nation">{{ region.nation }}</span>
+              <span class="region-label">
+                <span v-if="region.parentName" class="region-parent">{{ region.parentName }}</span>
+                <span class="region-name">{{ region.name }}</span>
+              </span>
+              <span class="region-status">{{ hasBgm(region) ? region.nation : '暂无专属曲目' }}</span>
               <span v-if="currentRegion?.id === region.id" class="playing-icon">🔊</span>
             </div>
             <div v-if="filteredRegions.length === 0" class="empty-hint">该国度暂无区域数据</div>
@@ -313,14 +316,32 @@ function nationColor(nation) {
   border-radius: 50%;
   flex-shrink: 0;
 }
-.region-name {
+.region-label {
   flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.region-parent {
+  font-size: 10px;
+  color: #747486;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.region-name {
   font-size: 13px;
   color: #e0e0e0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
-.region-nation {
+.region-status {
   font-size: 11px;
   color: #a0a0b0;
+  max-width: 72px;
+  text-align: right;
 }
 .playing-icon {
   font-size: 14px;

@@ -44,6 +44,7 @@
       :volume="volume"
       :is-looping="isLooping"
       :is-loading="isLoading"
+      :audio-error="audioError"
       @close="onClosePlayer"
       @toggle-play="togglePlay"
       @set-volume="setVolume"
@@ -63,8 +64,8 @@ import { useGameClock } from './composables/useGameClock.js'
 import { useStorage } from './composables/useStorage.js'
 import {
   playRegion, switchPeriod, initAudio, setVolume as engineSetVolume,
-  togglePlay, toggleLoop, reload,
-  isPlaying, volume, isLooping, isLoading,
+  togglePlay, toggleLoop, reload, pause,
+  isPlaying, volume, isLooping, isLoading, audioError,
   preloadRegion
 } from './composables/useAudioEngine.js'
 import { STORAGE_KEYS } from './data/config.js'
@@ -93,7 +94,7 @@ onMounted(async () => {
   try {
     const res = await fetch('./data/regions.json')
     const data = await res.json()
-    regions.value = data.regions || []
+    regions.value = await applyAudioSources(flattenL3Regions(data.regions || []))
   } catch (e) {
     console.error('加载regions.json失败:', e)
   }
@@ -104,17 +105,67 @@ onMounted(async () => {
   // 时钟时段变化 → 联动切歌
   clock.onPeriodChange((newPeriod) => {
     if (currentRegion.value && playerVisible.value) {
-      switchPeriod(newPeriod)
+      const info = currentRegion.value.bgm?.[newPeriod]
+      if (info?.embedUrl && !info?.streamUrl) pause()
+      else switchPeriod(newPeriod)
     }
   })
 })
+
+async function loadAudioSources() {
+  try {
+    const res = await fetch('./data/audio-sources.json', { cache: 'no-store' })
+    if (!res.ok) return {}
+    return await res.json()
+  } catch {
+    return {}
+  }
+}
+
+function flattenL3Regions(regionList) {
+  return regionList.flatMap(parent => {
+    if (!parent.children?.length) return [{ ...parent, level: 3 }]
+    return parent.children.map(child => ({
+      ...child,
+      nation: child.nation || parent.nation,
+      layer: child.layer || parent.layer,
+      parentId: parent.id,
+      parentName: parent.name,
+      level: 3
+    }))
+  })
+}
+
+async function applyAudioSources(regionList) {
+  const sources = await loadAudioSources()
+  return regionList.map(region => {
+    if (!region.bgm) return region
+    const bgm = { ...region.bgm }
+    for (const period of ['dawn', 'day', 'dusk', 'night']) {
+      const info = bgm[period]
+      if (!info) continue
+      const fileName = info.file ? info.file.split('/').pop() : ''
+      const source = sources[info.file] || sources[fileName] || sources[info.title]
+      const merged = typeof source === 'string' ? { streamUrl: source } : { ...(source || {}) }
+      bgm[period] = {
+        ...info,
+        ...merged
+      }
+    }
+    return { ...region, bgm }
+  })
+}
 
 function onRegionClick(region) {
   initAudio() // 首次交互初始化音频
   currentRegion.value = region
   playerVisible.value = true
-  playRegion(region, clock.period.value)
-  preloadRegion(region)
+  const info = region.bgm?.[clock.period.value]
+  if (info?.embedUrl && !info?.streamUrl) pause()
+  else {
+    playRegion(region, clock.period.value)
+    preloadRegion(region)
+  }
 }
 
 function onRegionSelect(region) {

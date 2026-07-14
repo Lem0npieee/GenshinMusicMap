@@ -23,16 +23,19 @@ let tileLayer = null
 let regionLayer = null
 const regionRects = new Map()
 const initialView = { center: getCenter(), zoom: mapConfig.defaultZoom }
+const tileBaseUrl = `${import.meta.env.BASE_URL}images/map`
 
 // 自定义瓦片层，支持 {x}_{y}.webp 格式的文件名
 const GameTileLayer = L.GridLayer.extend({
   createTile: function (coords) {
     const tile = document.createElement('img')
     tile.alt = ''
-    tile.src = `images/map/${coords.z}/${coords.x}_${coords.y}.webp`
+    tile.decoding = 'async'
+    tile.src = `${tileBaseUrl}/${coords.z}/${coords.x}_${coords.y}.webp`
     tile.style.width = '100%'
     tile.style.height = '100%'
-    tile.onerror = () => { tile.style.background = '#0d0d22' }
+    tile.style.display = 'block'
+    tile.onerror = () => { tile.style.visibility = 'hidden' }
     return tile
   }
 })
@@ -44,6 +47,19 @@ function getRegionStyle(region, isActive = false) {
     return { color: '#fff', weight: 3, opacity: 1, fillColor: color, fillOpacity: 0.3, dashArray: '' }
   }
   return { color, weight: 2, opacity: 0.5, fillColor: color, fillOpacity: 0.06, dashArray: '4 3' }
+}
+
+function escapeHtml(value) {
+  return String(value || '')
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&#039;')
+}
+
+function hasBgm(region) {
+  return Object.values(region?.bgm || {}).some(item => item?.title && item?.file)
 }
 
 // 渲染区域多边形
@@ -60,8 +76,12 @@ function renderRegions() {
       className: 'region-polygon',
       interactive: true
     })
+    const parentPath = region.parentName
+      ? `<span class="region-parent">${escapeHtml(region.parentName)} ›</span>`
+      : ''
+    const bgmStatus = hasBgm(region) ? '' : '<span class="no-bgm-tag">暂无 L3 专属曲目</span>'
     rect.bindTooltip(
-      `<div class="region-tooltip"><b>${region.name}</b><span class="nation-tag">${region.nation}</span></div>`,
+      `<div class="region-tooltip">${parentPath}<b>${escapeHtml(region.name)}</b><span class="nation-tag">${escapeHtml(region.nation)}</span>${bgmStatus}</div>`,
       { sticky: true, direction: 'top', offset: [0, -5], className: 'region-tooltip-wrapper' }
     )
     rect.on('mouseover', () => {
@@ -99,6 +119,7 @@ onMounted(() => {
   tileLayer = new GameTileLayer({
     minZoom: mapConfig.minZoom,
     maxZoom: mapConfig.maxZoom,
+    tileSize: mapConfig.leafletTileSize,
     noWrap: true,
     bounds: mapBounds
   }).addTo(map)
@@ -168,6 +189,18 @@ onUnmounted(() => {
   font-size: 11px;
   color: var(--text-secondary, #a0a0b0);
   margin-left: 6px;
+}
+:deep(.region-tooltip .region-parent) {
+  display: block;
+  margin-bottom: 2px;
+  color: #8f91a2;
+  font-size: 10px;
+}
+:deep(.region-tooltip .no-bgm-tag) {
+  display: block;
+  margin-top: 3px;
+  color: #ffb4af;
+  font-size: 10px;
 }
 :deep(.leaflet-tooltip-top:before) { display: none; }
 :deep(.leaflet-container) {
